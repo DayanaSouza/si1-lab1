@@ -1,0 +1,123 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="dayan_000" >
+
+    <title> SI1- Contato </title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/one-page-wonder.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">Sistemas de Informação 1 </a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="index2.html"> Cadastrar </a>
+                    </li>
+                    <li>
+                        <a href="index3.html"> Agradecimentos </a>
+                    </li>
+                    <li>
+                        <a href="index4.html">Contato </a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+    
+    <br>
+    <br>
+    <br>
+    
+
+<<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+
+				<legend> <h1> Dayana Souza </h1> </legend>	
+				
+				<!-- First Featurette -->
+        <div class="featurette" id="about">
+            <img class="featurette-image img-circle img-responsive pull-right" 
+            src="https://mail.google.com/mail/u/0/?ui=2&ik=83d5966ad1&view=fimg&th=14cda0101dcfec93&attid=0.1&disp=inline&realattid=f_i8qqyx750&safe=1&attbid=ANGjdJ8XhT0PqBiJljCenu-He7_AxR0ufogx9P90eVCvgDEVt_tyo9cNvG_np6jQ6_q8XMYRp5nbiJB7tW1N6vx14ULsKFq010nCWt540TMrYh0oDBoPciWtPUXv5Pw&ats=1429586645254&rm=14cda0101dcfec93&zw&sz=w1342-h547">
+ 
+            <p class="lead"> 
+          	Técnica em informática e estudante do curso de Ciência da Computação - UFCG.
+            </p>
+            <font size= 4>
+            <ul>  
+
+					<li> Email - dayana.silva@ccc.ufcg.edu.br </li>
+					<li> Perfil Github - DayanaSouza </li>
+					<li> Facebook - dayana.souza.s </li>
+				</ul>
+				</font>
+        </div>
+
+        <hr class="featurette-divider">
+        
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; Your Website 2015</p>
+                </div>
+            </div>
+        </footer>
+
+    
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+			
+	   </div>
+   </div>
+</div>
+
+
+
+
+
+</body>
+
+</html>
